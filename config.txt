@@ -3,6 +3,6 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //profile-web-page-url: https://github.com/parsamrrelax
 
-warp://188.114.96.106:864/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://188.114.96.106:864/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#🍆-WoW-IPv4🇩🇪-1
-warp://188.114.97.202:1014/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://188.114.97.202:1014/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#🍆-WoW-IPv4🇩🇪-2
-warp://[2606:4700:d0::1458:32a1:f454:4a7b]:942/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://[2606:4700:d0::1458:32a1:f454:4a7b]:942/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#🍆-WoW-IPv6🇩🇪-3
+warp://162.159.192.239:928/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://162.159.192.239:928/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#🍆-WoW-IPv4🇩🇪-1
+warp://162.159.192.135:8742/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://162.159.192.135:8742/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#🍆-WoW-IPv4🇩🇪-2
+warp://[2606:4700:d0::e5c2:dcf4:f5a:693d]:1002/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://[2606:4700:d0::e5c2:dcf4:f5a:693d]:1002/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#🍆-WoW-IPv6🇩🇪-3

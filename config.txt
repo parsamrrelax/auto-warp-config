@@ -4,5 +4,5 @@
 //profile-web-page-url: https://github.com/parsamrrelax
 
 warp://188.114.97.113:7156/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://188.114.97.113:7156/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#🍆-WoW-IPv4🇩🇪-1
-warp://188.114.98.74:988/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://188.114.98.74:988/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#🍆-WoW-IPv4🇩🇪-2
-warp://[2606:4700:d0::79c6:c983:de6d:b1e8]:859/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://[2606:4700:d0::79c6:c983:de6d:b1e8]:859/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#🍆-WoW-IPv6🇩🇪-3
+warp://162.159.192.14:1070/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://162.159.192.14:1070/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#🍆-WoW-IPv4🇩🇪-2
+warp://[2606:4700:d0::184f:476d:fe2c:e4e1]:859/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://[2606:4700:d0::184f:476d:fe2c:e4e1]:859/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#🍆-WoW-IPv6🇩🇪-3
